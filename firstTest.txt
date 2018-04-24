@@ -1,7 +1,7 @@
-print ("hello world (yes,again)")
-print ("One more line")
-print('hello')
+print ("hello world (yes,again)");
+print ("One more line");
+print('hello');
 
-print('what's app?')
+print('what's app?');
 
-print('something else')
+print('something else');
